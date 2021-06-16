@@ -9,6 +9,9 @@
 * Qual o segmento que mais adiciona valor à receita da empresa?
 * É necessário realizar algum ajuste na previsão da modelo?
 
+  As análises foram feitas pelo Power BI.
+  
+  
   
   
   
