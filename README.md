@@ -18,13 +18,13 @@
   
   A partir da tabela de categoria, observa-se que a de material de escritório possui a maior margem planejada, com R$ 5,89 milhões, seguida pela de móveis com R$ 2,85 milhões e de tecnologia, com R$ 2,09 milhões. Contudo, quando observa-se a margem realizada, a categoria que mais contribuiu foi a de móveis, com R$ 2,62 milhões, depois a de tecnologia com R$ 2,17 milhões e, por último, a de material de escritório com apenas R$ 1,53 milhões.
   
-  A partir da tabela de segmento, verifica-se que o de varejo possui a maior margem planejada, com R$ 5,11 milhões de reais, seguido pelo de grandes empresas com R$ 3,53 milhões e de pequenas e médias empresas, com R$ 2,18 milhões. Na margem realizada, os segmentos mantém a mesma ordem de importância, porém, com valores diferentes: R$ 3,14 milhões para varejo, R$ 1,94 para grandes empresas e R$ 1,23 milhões para pequenas e médias empresas.
+  A partir da tabela de segmento, verifica-se que o de varejo possui a maior margem planejada, com R$ 5,11 milhões, seguido pelo de grandes empresas com R$ 3,53 milhões e de pequenas e médias empresas, com R$ 2,18 milhões. Na margem realizada, os segmentos mantém a mesma ordem de importância, porém, com valores diferentes: R$ 3,14 milhões para varejo, R$ 1,94 milhões para grandes empresas e R$ 1,23 milhões para pequenas e médias empresas.
   
-  O segundo dashboard é focado na variável categoria
+  O segundo dashboard é focado na variável categoria.
   
   ![Alt text](margem_contribuicao_2.jpg)
   
-  Pode-se notar a maior discrepância se encontra na categoria materiais de escritório. Enquanto a de tecnologia superou as expectativas em 3,61 % e a de móveis frustou em apenas 7,89%, a categoria de materais de escritório teve uma margem de contribuição 73,98% menor do que o planejado, o que impactou significativamente a margem de contribuição total visto que era a categoria onde a empresa apostava faturar mais.
+  Pode-se notar a maior discrepância se encontra na categoria materiais de escritório. Enquanto a de tecnologia superou as expectativas em 3,61% e a de móveis frustou em apenas 7,89%, a categoria de materais de escritório teve uma margem de contribuição 73,98% menor do que o planejado, o que impactou significativamente a margem de contribuição total visto que era a categoria onde a empresa apostava faturar mais.
   
   O modelo de predição de receita foi bastante assertivo nas outras categorias, entretanto, sobrevalorizou a categoria materiais de escritório, o que gerou uma distorção nos resultados finais. A revisão do modelo se faz necessária para verificar quais variáveis estão inflando as receitas de uma só categoria.
   
