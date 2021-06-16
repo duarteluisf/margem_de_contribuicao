@@ -10,7 +10,7 @@
 * Qual o segmento que mais adiciona valor à receita da empresa?
 * É necessário realizar algum ajuste na previsão da modelo?
 
-  As análises foram feitas pelo Power BI.
+  As análises foram feitas pelo Power BI. O primeiro deixa fornece uma análise geral dos dados.
   
 ![Alt text](margem_contribuicao_1.jpg)
   
@@ -20,8 +20,13 @@
   
   A partir da tabela de segmento, verifica-se que o de varejo possui a maior margem planejada, com R$ 5,11 milhões de reais, seguido pelo de grandes empresas com R$ 3,53 milhões e de pequenas e médias empresas, com R$ 2,18 milhões. Na margem realizada, os segmentos mantém a mesma ordem de importância, porém, com valores diferentes: R$ 3,14 milhões para varejo, R$ 1,94 para grandes empresas e R$ 1,23 milhões para pequenas e médias empresas.
   
+  O segundo dashboard é focado na variável categoria
+  
   ![Alt text](margem_contribuicao_2.jpg)
   
+  Pode-se notar a maior discrepância se encontra na categoria materiais de escritório. Enquanto a de tecnologia superou as expectativas em 3,61 % e a de móveis frustou em apenas 7,89%, a categoria de materais de escritório teve uma margem de contribuição 73,98% menor do que o planejado, o que impactou significativamente a margem de contribuição total visto que era a categoria onde a empresa apostava faturar mais.
+  
+  O modelo de predição de receita foi bastante assertivo nas outras categorias, entretanto, sobrevalorizou a categoria materiais de escritório, o que gerou uma distorção nos resultados finais. A revisão do modelo se faz necessária para verificar quais variáveis estão inflando as receitas de uma só categoria.
   
   
    
