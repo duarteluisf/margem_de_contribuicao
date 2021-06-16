@@ -8,7 +8,7 @@
 * As margens de contribuição previstas foram realizadas?
 * Qual o produto que mais adiciona valor à receita da empresa?
 * Qual o segmento que mais adiciona valor à receita da empresa?
-* É necessário realizar algum ajuste na previsão da modelo?
+* É necessário realizar algum ajuste na previsão do modelo?
 
   As análises foram feitas pelo Power BI. O primeiro deixa fornece uma análise geral dos dados.
   
