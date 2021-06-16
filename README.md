@@ -11,6 +11,8 @@
 
   As análises foram feitas pelo Power BI.
   
+![Alt text](margem_contribuicao_1.jpeg)
+  
   
   
   
