@@ -10,7 +10,7 @@
 * Qual o segmento que mais adiciona valor à receita da empresa?
 * É necessário realizar algum ajuste na previsão do modelo?
 
-  As análises foram feitas pelo Power BI. O primeiro deixa fornece uma análise geral dos dados.
+As análises foram feitas pelo Power BI. O primeiro dashboard fornece uma análise geral dos dados.
   
 ![Alt text](margem_contribuicao_1.jpg)
   
