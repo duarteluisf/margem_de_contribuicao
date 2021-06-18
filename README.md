@@ -24,7 +24,7 @@ As análises foram feitas pelo Power BI. O primeiro dashboard fornece uma análi
   
   ![Alt text](margem_contribuicao_2.jpg)
   
-  Pode-se notar a maior discrepância se encontra na categoria materiais de escritório. Enquanto a de tecnologia superou as expectativas em 3,61% e a de móveis frustou em apenas 7,89%, a categoria de materais de escritório teve uma margem de contribuição 73,98% menor do que o planejado, o que impactou significativamente a margem de contribuição total visto que era a categoria onde a empresa apostava faturar mais.
+  Pode-se notar que a maior discrepância se encontra na categoria materiais de escritório. Enquanto a de tecnologia superou as expectativas em 3,61% e a de móveis frustou em apenas 7,89%, a categoria de materais de escritório teve uma margem de contribuição 73,98% menor do que o planejado, o que impactou significativamente a margem de contribuição total visto que era a categoria onde a empresa apostava faturar mais.
   
   O modelo de predição de receita foi bastante assertivo nas outras categorias, entretanto, sobrevalorizou a categoria materiais de escritório, o que gerou uma distorção nos resultados finais. A revisão do modelo se faz necessária para verificar quais variáveis estão inflando as receitas de uma só categoria.
   
