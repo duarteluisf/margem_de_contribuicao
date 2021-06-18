@@ -14,7 +14,7 @@ As análises foram feitas pelo Power BI. O primeiro dashboard fornece uma análi
   
 ![Alt text](margem_contribuicao_1.jpg)
   
-  No gráfico ''Margem de contribuição - planejado versus realizado'', verifica-se na área amarela que houve uma sobrevalorização da margem de contribuição planejada ao longo de janeiro a dezembro de 2019, com destaque para o período entre setembro e dezembro. O esperado era vender R$12,15 milhões e uma margem de contribuição de R$ 10,84 milhões, porém, foi realizado R$ 7,07 milhões e R$ 6,33 milhões de receita e margem de contribuição, respectivamente. Ou seja, a empresa recebeu aproxidamente 42% a menos do que a previsão tinha mostrado. 
+  No gráfico ''Margem de contribuição - planejado versus realizado'', verifica-se na área amarela que houve uma sobrevalorização da margem de contribuição planejada ao longo de 2019, com destaque para o período entre setembro e dezembro. O esperado era vender R$12,15 milhões e uma margem de contribuição de R$ 10,84 milhões, porém, foi realizado R$ 7,07 milhões e R$ 6,33 milhões de receita e margem de contribuição, respectivamente. Ou seja, a empresa recebeu aproxidamente 42% a menos do que a previsão tinha mostrado. 
   
   A partir da tabela de categoria, observa-se que a de material de escritório possui a maior margem planejada, com R$ 5,89 milhões, seguida pela de móveis com R$ 2,85 milhões e de tecnologia, com R$ 2,09 milhões. Contudo, quando observa-se a margem realizada, a categoria que mais contribuiu foi a de móveis, com R$ 2,62 milhões, depois a de tecnologia com R$ 2,17 milhões e, por último, a de material de escritório com apenas R$ 1,53 milhões.
   
